@@ -4,11 +4,11 @@
 this is a web of ymr-yyds
 
  - [我的B站主页](https://space.bilibili.com/1137868546)
- - [sqdldev的饭制网站](https://hopeh1.github.io/rolling-sky/level-speed-calculator)
+ - [sqdldev的做饭网站](https://hopeh1.github.io/rolling-sky/level-speed-calculator)
+ - [我的博客](https://ymr-yyds.github.io/ymr-blog.github.io)
 
 # 下面为未开发部分
 
- - [Tile Lookup](https://hopeh1.github.io/rolling-sky/tile-lookup/)
  - [Spritemaker](https://hopeh1.github.io/rolling-sky/spritesheet-creator/)
  - [Rolling Sky Level Tiled Exporter Plugin](https://www.mediafire.com/file/mqpnsmbtbv921xy/)
  - [Rolling Sky Level Tiled Importer AND Exporter Plugin (Slightly Broken)](https://www.mediafire.com/file/pwlbb6m4wssep8t/)
