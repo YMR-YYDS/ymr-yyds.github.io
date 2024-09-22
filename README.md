@@ -5,4 +5,4 @@ This is only a website of ymr-yyds
 
 我的B站主页：
 My Bilibili homepage:
-ttps://space.bilibili.com/1137868546
+https://space.bilibili.com/1137868546
